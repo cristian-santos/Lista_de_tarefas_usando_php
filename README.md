@@ -1,2 +1,3 @@
-# Lista_de_tarefas_usando_php
-# Tecnologias utilizadas: PHP, Javascript
+# App lista de tarefas
+## Tecnologias utilizadas: PHP, Javascript e mySQL.
+
